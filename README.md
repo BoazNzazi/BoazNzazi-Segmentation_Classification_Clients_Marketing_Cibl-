@@ -4,7 +4,9 @@ Ce projet de classification des clients vise à optimiser les campagnes marketin
 
 Grâce à une approche basée sur le Machine Learning, nous analysons les comportements d'achat et les caractéristiques des clients pour prédire leur réactivité aux campagnes marketing.
 
+
 ---
+
 
 🎯 # **Objectifs**
 
@@ -13,7 +15,9 @@ Grâce à une approche basée sur le Machine Learning, nous analysons les compor
 ✔ Optimisation des stratégies marketing pour maximiser le taux de conversion.
 ✔ Automatisation de l’analyse des campagnes publicitaires grâce à l’IA.
 
+
 ---
+
 
 🚀 # **Fonctionnalités**
 
@@ -49,7 +53,9 @@ Grâce à une approche basée sur le Machine Learning, nous analysons les compor
 ✔ Normalisation des variables numériques avec StandardScaler
 ✔ Séparation des données en train/test
 
+
 ---
+
 
 🛠️ # **Installation & Exécution**
 1️⃣ Cloner le projet
@@ -67,7 +73,9 @@ jupyter notebook
 
 ➡️ Ouvrir classification_clients.ipynb et exécuter les cellules.
 
+
 ---
+
 
 📊 # **Résultats Attendus**
 
@@ -76,11 +84,13 @@ jupyter notebook
 ✔ Optimisation des dépenses publicitaires en ciblant uniquement les prospects intéressés.
 ✔ Modèle prédictif réutilisable pour de futures campagnes marketing.
 
+
 ---
 
-📩 # **Contribuer**
 
-Ce projet a été conçu et développé par Boaz NZAZI.
+📩 # **Contributeur**
+
+Ce projet a été conçu et développé par **Boaz NZAZI**
 
 💡 Vous avez des suggestions ou des idées d'amélioration ?
 N'hésitez pas à proposer des Pull Requests ou à ouvrir une Issue pour enrichir ce projet et l'améliorer continuellement.
