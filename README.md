@@ -3,6 +3,7 @@
 Ce projet de classification des clients vise à optimiser les campagnes marketing en identifiant les profils de clients les plus susceptibles de répondre positivement aux offres publicitaires.
 
 Grâce à une approche basée sur le Machine Learning, nous analysons les comportements d'achat et les caractéristiques des clients pour prédire leur réactivité aux campagnes marketing.
+
 ---
 
 🎯 # **Objectifs**
@@ -11,6 +12,7 @@ Grâce à une approche basée sur le Machine Learning, nous analysons les compor
 ✔ Prédiction des clients intéressés par une offre en utilisant des modèles de classification.
 ✔ Optimisation des stratégies marketing pour maximiser le taux de conversion.
 ✔ Automatisation de l’analyse des campagnes publicitaires grâce à l’IA.
+
 ---
 
 🚀 # **Fonctionnalités**
@@ -73,6 +75,8 @@ jupyter notebook
 ✔ Augmentation du taux de conversion grâce à une approche data-driven.
 ✔ Optimisation des dépenses publicitaires en ciblant uniquement les prospects intéressés.
 ✔ Modèle prédictif réutilisable pour de futures campagnes marketing.
+
+---
 
 📩 # **Contribuer**
 
