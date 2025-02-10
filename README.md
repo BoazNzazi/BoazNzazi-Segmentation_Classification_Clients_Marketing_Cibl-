@@ -1,15 +1,19 @@
-📌 Description
+📌 # **Description**
 
 Ce projet de classification des clients vise à optimiser les campagnes marketing en identifiant les profils de clients les plus susceptibles de répondre positivement aux offres publicitaires.
 
 Grâce à une approche basée sur le Machine Learning, nous analysons les comportements d'achat et les caractéristiques des clients pour prédire leur réactivité aux campagnes marketing.
-🎯 Objectifs
+---
+
+🎯 # **Objectifs**
 
 ✔ Segmentation des clients en fonction de leur comportement d'achat.
 ✔ Prédiction des clients intéressés par une offre en utilisant des modèles de classification.
 ✔ Optimisation des stratégies marketing pour maximiser le taux de conversion.
 ✔ Automatisation de l’analyse des campagnes publicitaires grâce à l’IA.
-🚀 Fonctionnalités
+---
+
+🚀 # **Fonctionnalités**
 
 🔹 Exploration et Préparation des Données
 
@@ -28,7 +32,9 @@ Grâce à une approche basée sur le Machine Learning, nous analysons les compor
     Comparaison de plusieurs modèles pour choisir le plus performant.
     Hyperparamétrisation pour améliorer la précision des prédictions.
 
-⚙️ Spécifications Techniques
+---
+
+⚙️ # **Spécifications Techniques**
 
 📌 Langage & Bibliothèques
 ✔ Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, XGBoost)
@@ -40,7 +46,10 @@ Grâce à une approche basée sur le Machine Learning, nous analysons les compor
 ✔ Encodage One-Hot Encoding pour les variables catégorielles
 ✔ Normalisation des variables numériques avec StandardScaler
 ✔ Séparation des données en train/test
-🛠️ Installation & Exécution
+
+---
+
+🛠️ # **Installation & Exécution**
 1️⃣ Cloner le projet
 
 git clone https://github.com/votre-utilisateur/votre-projet.git
@@ -55,16 +64,21 @@ pip install -r requirements.txt
 jupyter notebook
 
 ➡️ Ouvrir classification_clients.ipynb et exécuter les cellules.
-📊 Résultats Attendus
+
+---
+
+📊 # **Résultats Attendus**
 
 ✔ Meilleure segmentation des clients pour un marketing ciblé.
 ✔ Augmentation du taux de conversion grâce à une approche data-driven.
 ✔ Optimisation des dépenses publicitaires en ciblant uniquement les prospects intéressés.
 ✔ Modèle prédictif réutilisable pour de futures campagnes marketing.
-📩 Contribuer
 
-Vous pouvez proposer des améliorations via Pull Requests ou Issues sur GitHub.
+📩 # **Contribuer**
 
-💡 Des idées d'amélioration ? N’hésitez pas à contribuer pour enrichir le projet !
+Ce projet a été conçu et développé par Boaz NZAZI.
 
-📧 Contact : Votre Email ou GitHub
+💡 Vous avez des suggestions ou des idées d'amélioration ?
+N'hésitez pas à proposer des Pull Requests ou à ouvrir une Issue pour enrichir ce projet et l'améliorer continuellement.
+
+📧 Contact : boaz.nzazi@unikin.ac.cd
